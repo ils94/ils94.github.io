@@ -1,3 +1,3 @@
 Sites:
 
-[Blink - Dedetização](https://ils94.github.io/blink/)
+[Blink - Dedetizadora](https://ils94.github.io/blink/)
