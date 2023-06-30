@@ -1,3 +1,3 @@
-LINKS:
+Sites:
 
-[Blink](https://ils94.github.io/blink/)
+[Blink - Dedetização](https://ils94.github.io/blink/)
