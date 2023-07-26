@@ -1,5 +1,5 @@
 const jsonData = {
-    "imagem_perfil": "https://avatars.githubusercontent.com/u/99141005?v=4",
+    "imagem_perfil": "https://hips.hearstapps.com/hmg-prod/images/how-to-keep-ducks-call-ducks-1615457181.jpg?crop=0.669xw:1.00xh;0.166xw,0&resize=1200:*",
     "nome": "Igor Lima e Silva",
     "profissao": "Programador Hobbista",
     "redes_sociais": {
