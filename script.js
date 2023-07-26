@@ -5,15 +5,6 @@ document.addEventListener("DOMContentLoaded", function () {
     menuToggle.addEventListener("click", function () {
       navMenu.classList.toggle("show");
     });
-  });
-  
-  document.addEventListener("DOMContentLoaded", function () {
-    const menuToggle = document.querySelector(".menu-toggle");
-    const navMenu = document.querySelector(".nav-menu");
-  
-    menuToggle.addEventListener("click", function () {
-      navMenu.classList.toggle("show");
-    });
   
     // Call the function to set the site info with the JSON data from data.js
     setSiteInfo(jsonData);
