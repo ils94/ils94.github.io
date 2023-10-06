@@ -1,3 +1,1 @@
-Sites:
-
-[Blink - Dedetizadora](https://ils94.github.io/blink/)
+[enter link description here](https://ils94.github.io/rushify/)
