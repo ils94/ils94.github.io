@@ -30,6 +30,12 @@ const projects = [
         link: "https://github.com/ils94/Electrum_Companion"
     },
     {
+        title: "BRC Wallet",
+        tags: ["Android", "Crypto", "Wallet"],
+        description: "BRC Wallet is a lightweight, non-custodial Android wallet for BrowserCoin (BRC). Built in pure Java, it gives you full control over your keys — generate or import an Ed25519 wallet, sync the chain locally to calculate your real balance, and send BRC. Your private key never leaves your device.",
+        link: "https://github.com/ils94/BRC_Wallet_Android"
+    },
+    {
         title: "Tails OS Bitcoin Cold Wallet",
         tags: ["Tutorial", "Tails OS", "Bitcoin", "Security"],
         description: "Tutorial: Creating a Bitcoin cold wallet using Tails OS with persistent storage (multilanguage).",
